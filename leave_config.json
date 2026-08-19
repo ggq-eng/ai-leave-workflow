@@ -1,0 +1,12 @@
+{
+  "corpid": "your_corpid_here",
+  "secret": "your_wecom_secret_here",
+  "trusted_ip": "your_trusted_ip_here",
+  "template_id": "your_template_id_here",
+  "use_smart_table": false,
+  "default_creator": "your_name_here",
+  "default_creator_name": "your_name_here",
+  "default_approver": "your_name_here",
+  "default_approver_name": "your_name_here",
+  "note": "默认发起人+审批人统一为 your_name_here（自审）| 不使用腾讯文档 | 不设抄送人（新版 process.node_list 与 notifyer 不兼容，会报 40058）"
+}
